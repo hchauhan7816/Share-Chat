@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "319634634686",
+    "project_id": "chatapp-1b6c0",
+    "storage_bucket": "chatapp-1b6c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319634634686:android:56225d4925813311abebef",
+        "android_client_info": {
+          "package_name": "com.example.sharechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319634634686-ghhv7hj2reo85irtk7m801n6epfjq84e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sharechat",
+            "certificate_hash": "20452d661dd2c0f1db463efb45653a3080d89b36"
+          }
+        },
+        {
+          "client_id": "319634634686-l6jjkojltpqr29o8c3vve05jrh27r83r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmRuZpSl8LdUpAv9Uy5QtzlgKcbyHy6D8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319634634686-l6jjkojltpqr29o8c3vve05jrh27r83r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
